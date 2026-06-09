@@ -1,6 +1,22 @@
-# SWE_lab6sw10a
+# Patients Appointments Booking App
 
-Submit the GitHub repository URL as required by the assignment.
+## Overview
+
+PatientsAppointmentsBookingApp is a Spring Boot command-line application that creates and displays patient appointment booking data in JSON format.
+
+The application stores a list of patients, calculates each patient's current age based on date of birth, sorts the patients by age in descending order, and prints the result to the console.
+
+Oldest patients are displayed first, and youngest patients are displayed last.
+
+---
+
+## Technologies Used
+
+- Java 17 or higher
+- Spring Boot
+- Maven
+- Jackson JSON library
+- IntelliJ IDEA
 
 ---
 
